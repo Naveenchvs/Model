@@ -1,0 +1,2 @@
+# Model
+UICollectionView MVC Pattern 
